@@ -1,6 +1,6 @@
 # distanceSensor
 
-Tring to practice social distancing? Strap this bad boy to your shirt!
+Trying to practice social distancing? Strap this bad boy to your shirt!
 
 Want to park your car without hitting the wall? Stick this in your garage!
 
