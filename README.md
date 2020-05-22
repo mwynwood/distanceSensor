@@ -1,11 +1,15 @@
-# reverseParkSensor
+# distanceSensor
 
-Parking the car without smashing into the wall can be a tough task... well, not anymore with this “Parking Sensor”!
+Tring to practice social distancing? Strap this bad boy to your shirt!
 
-I thought I’d have a go at using the ATtiny85’s I bought a while ago. They have just enough GPIO for two LEDs, a button, and a HC-SR04 ultrasonic distance sensor.
+Want to park your car without hitting the wall? Stick this in your garage!
 
-The idea is that a LED blinks increasingly faster as you get closer until it goes solid, indicating you should stop the car. The button can be used to set a new "Stop Distance", and the other LED is there to indicate that the new "Stop Distance" has been set successfully. It runs on 5v from a USB cable.
+I thought I'd have a go at using an ATtiny85 for this project. They have just enough GPIO for two LEDs, a button, and a HC-SR04 ultrasonic distance sensor.
 
-![Wiring Diagram](reverseParkSensor-fritzing.jpg)
+The idea is that a LED blinks increasingly faster as things get closer until it lights up solid indicating the "Stop Distance" has been reached. The button can be used to set a new "Stop Distance", and the other LED is there to indicate that the new "Stop Distance" has been set successfully. It runs on 5v from a USB cable.
 
-![Complete](reverseParkSensor-complete.jpg)
+![Wiring Diagram](distanceSensor-fritzing.jpg)
+
+![Complete](distanceSensor-complete.jpg)
+
+![Close](distanceSensor-close.jpg)
